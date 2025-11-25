@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f183272568e6f94382e3b59c0de76cd, type: 3}
+  m_Name: 61132102.project
+  m_EditorClassIdentifier: 
+  chapterDataList:
+  - chapterName: Boot
+    scenarioDir: {fileID: 102900000, guid: 49ababdf0f6ec4d41b4b02d2b2367ca9, type: 3}
+    excelList: []
+  scenarios: {fileID: 11400000, guid: 6a0c484aa575ece4e9b43396620db95c, type: 2}
+  enableCommentOutOnImport: 1
+  scenarioFileReaderSettings:
+  - {fileID: 11400000, guid: 247fb19d48719a34097848b557410281, type: 2}
+  - {fileID: 11400000, guid: 5136b8ec4aafd9c449fa6cc237c7f238, type: 2}
+  resourceDir: {fileID: 0}
+  checkExt: 0
+  customProjectSetting: {fileID: 11400000, guid: a5c8cae154a2bec4e93b5626322057a7, type: 2}
+  customImportSpriteFolders:
+  - {fileID: 102900000, guid: 85c994e277750fd4faa2442704404512, type: 3}
+  - {fileID: 102900000, guid: e47917eb17c395244a1d12e91165d38d, type: 3}
+  - {fileID: 102900000, guid: 7d84bbbcaef415f419ea1563b83a7fb5, type: 3}
+  - {fileID: 102900000, guid: 849c70adb9d8cf048b81d3618cf9e264, type: 3}
+  - {fileID: 102900000, guid: f066c69b3ffbc5d47af801d413591d44, type: 3}
+  customImportAudioFolders:
+  - {fileID: 102900000, guid: cd687f22db7eda84995c528d6f5d69bf, type: 3}
+  - {fileID: 102900000, guid: b612708f76db43e47b44d889b2990344, type: 3}
+  - {fileID: 102900000, guid: 45c6812e30f9d734cb1961482f5872fb, type: 3}
+  - {fileID: 102900000, guid: 3e23d69b5dd9526418dbd2767abf5fc9, type: 3}
+  quickImportType: 0
+  parseFormula: 0
+  parseNumreic: 0
+  checkWhiteSpace: 1
+  checkWaitType: 0
+  checkWhiteSpaceEndOfCell: 1
+  checkTextCount: 1
+  checkTextCountAllLanguage: 0
+  autoImportType: 1
+  checkBlankRowCountOnImport: 1000
+  checkColumnCountOnImport: 500
